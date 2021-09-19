@@ -33,7 +33,7 @@ A Simple Guide Hackintosh With The Samsung Book X50 And X55
 |HDMI Audio/Video |✅|
 |Trackpad guestures|✅|
 |Speaker, mic , line out, headphone|✅|
-|Baterry indicator,hotkey volume ,brightnes|✅|
+|Baterry indicator,hotkey volume ,brightness|✅|
 |Battery Power Management |✅|
 
 Let's Start The Guide :)
