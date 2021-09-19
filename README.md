@@ -41,14 +41,23 @@ Let's Start The Guide :)
 ## Instalation Guide
 
 01-Make Your macOS Big Sur Bootable Flash Drive With Balena Etcher
+
 02-Mount EFI From Your Flash Drive And Paste My EFI
+
 03-Restart
+
 04-Change Boot Order For Your Flash Drive On Bios Screen, Save And Restart
+
 05-Press Enter On "Install macOS Big Sur" Option On The Open Core Menu
+
 06-Perform The Installation, And If It Restarts, Press The Option To Continue The Installation On The Open Core Menu
+
 07-On macOS Big Sur Home Screen, Mount Efi From SSD, And From Your Flash Drive
+
 08-Copy EFI Folder Of Your Flash Drive To SSD
+
 09-Restart Without Flash Drive And Change Boot Order To SSD
+
 10-Enjoy Your Hackintosh :)
 
 ### Important Notice ⚠️
