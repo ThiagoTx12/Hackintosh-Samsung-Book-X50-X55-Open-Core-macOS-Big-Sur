@@ -29,7 +29,7 @@ A Simple Guide Hackintosh With The Samsung Book X50 And X55
 |Wi-Fi |✅|
 |Bluetooth|✅|
 |Location services|✅|
-|Webcam|yes|
+|Webcam|✅|
 |HDMI Audio/Video |✅|
 |Trackpad guestures|✅|
 |Speaker, mic , line out, headphone|✅|
