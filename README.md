@@ -31,12 +31,12 @@ Github Does Not Support Files Larger Than 25 MB :(
 |USB C |Not Test|
 |Wi-Fi |✅|
 |Bluetooth|✅|
-|Location services|✅|
+|Location Services|✅|
 |Webcam|✅|
 |HDMI Audio/Video |✅|
-|Trackpad guestures|✅|
-|Speaker, mic , line out, headphone|✅|
-|Baterry indicator,hotkey volume ,brightness|✅|
+|Trackpad Gestures|✅|
+|Speaker, Mic , Line out, Headphone|✅|
+|Baterry Indicator,Hotkey Volume ,Brightness|✅|
 |Battery Power Management |✅|
 
 Let's Start The Guide :)
