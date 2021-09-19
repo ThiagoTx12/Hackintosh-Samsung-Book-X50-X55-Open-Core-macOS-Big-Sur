@@ -59,7 +59,7 @@ Let's Start The Guide :)
 
 08-Copy EFI Folder Of Your Flash Drive To SSD
 
-09-Restart Without Flash Drive And Change Boot Order To SSD
+09-Restart Without Flash Drive And Change Boot Order To SSD On The BIOS Screen
 
 10-Enjoy Your Hackintosh :)
 
