@@ -16,7 +16,7 @@ A Simple Guide Hackintosh With The Samsung Book X50 And X55
 |Audio Codec|Realtek ALC256|
 |Storage|1 TB HDD (5400RPM)/ 128 GB NVMe SSD|
 |Network|802.11 ac 1X1/Bluetooth v5.0/Gigabit Ethernet|
-|macOS Version: macOS Big Sur 11.x
+|macOS Version: |macOS Big Sur 11.x|
 
 ### What's Work?
 
