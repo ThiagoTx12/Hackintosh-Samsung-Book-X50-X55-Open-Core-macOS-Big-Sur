@@ -14,7 +14,7 @@ Github Does Not Support Files Larger Than 25 MB :(
 |---|---|
 |CPU|Intel Core i7-10510U|
 |RAM Memory|16GB 2666 Mhz|
-|Display|Intel UHD Graphics|
+|Display|Intel UHD Graphics 620|
 |Monitor|15.6 LED 1366 x 768|
 |Audio Codec|Realtek ALC256|
 |Storage|1 TB HDD (5400RPM)/ 128 GB NVMe SSD|
