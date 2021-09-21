@@ -25,7 +25,7 @@ Github Does Not Support Files Larger Than 25 MB :(
 
 | Function| Work|
 |---------------|-----------------------------------------------|
-|GPU acceleration (Without Dedicated GPU)|✅|
+|GPU Acceleration (Without Dedicated GPU)|✅|
 |Sleeping And wake|✅|
 |USB 3.0 And 2.0|✅|
 |USB C |Not Test|
