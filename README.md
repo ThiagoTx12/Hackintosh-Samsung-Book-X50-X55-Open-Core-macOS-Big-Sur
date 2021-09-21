@@ -25,9 +25,9 @@ Github Does Not Support Files Larger Than 25 MB :(
 
 | Function| Work|
 |---------------|-----------------------------------------------|
-|GPU acceleration (without dGPU)|✅|
-|Sleeping and wake|✅|
-|USB 3.0 and 2.0|✅|
+|GPU acceleration (Without Dedicated GPU)|✅|
+|Sleeping And wake|✅|
+|USB 3.0 And 2.0|✅|
 |USB C |Not Test|
 |Wi-Fi |✅|
 |Bluetooth|✅|
@@ -36,7 +36,7 @@ Github Does Not Support Files Larger Than 25 MB :(
 |HDMI Audio/Video |✅|
 |Trackpad Gestures|✅|
 |Speaker, Mic , Line out, Headphone|✅|
-|Baterry Indicator,Hotkey Volume ,Brightness|✅|
+|Baterry Indicator, Hotkey Volume ,Brightness|✅|
 |Battery Power Management |✅|
 
 Let's Start The Guide :)
