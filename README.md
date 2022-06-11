@@ -18,7 +18,7 @@ Github Does Not Support Files Larger Than 25 MB :(
 |Monitor|15.6 LED 1366 x 768|
 |Audio Codec|Realtek ALC256|
 |Storage|1 TB HDD (5400RPM)/ 128 GB NVMe SSD|
-|Network|Intel(R) Wireless-AC 9462 / Bluetooth v5.0 / Gigabit Ethernet|
+|Network|Intel(R) Wireless-AC 9462 / Bluetooth v5.2 / Gigabit Ethernet|
 |macOS Version: |macOS Big Sur 11.x|
 
 ### What's Work?
