@@ -1,4 +1,4 @@
-# Hackintosh-Samsung-Book-X50-X55-Open-Core-macOS-Big-Sur
+# Hackintosh-Samsung-Book-X50-X55-Open-Core-macOS-Ventura Beta
 A Simple Guide Hackintosh With The Samsung Book X50 And X55
 
 EFI Download Link: https://bit.ly/3ztwqHL
@@ -43,7 +43,7 @@ Let's Start The Guide :)
 
 ## Instalation Guide
 
-01-Make Your macOS Big Sur Bootable Flash Drive With Balena Etcher
+01-Make Your macOS Ventura Bootable Flash Drive With Balena Etcher
 
 02-Mount EFI From Your Flash Drive And Paste My EFI
 
@@ -51,7 +51,7 @@ Let's Start The Guide :)
 
 04-Change Boot Order For Your Flash Drive On Bios Screen, Save And Restart
 
-05-Press Enter On "Install macOS Big Sur" Option On The Open Core Menu
+05-Press Enter On "Install macOS 13 Beta" Option On The Open Core Menu
 
 06-Perform The Installation, And If It Restarts, Press The Option To Continue The Installation On The Open Core Menu
 
@@ -66,3 +66,5 @@ Let's Start The Guide :)
 ### Important Notice ⚠️
 
 Remember to Generate Your Own SMBIOS !!!
+
+https://github.com/corpnewt/GenSMBIOS
