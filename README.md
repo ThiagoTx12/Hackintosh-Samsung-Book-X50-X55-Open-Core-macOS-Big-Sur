@@ -51,7 +51,7 @@ Let's Start The Guide :)
 
 04-Change Boot Order For Your Flash Drive On Bios Screen, Save And Restart
 
-05-Press Enter On "Install macOS 13 Beta" Option On The Open Core Menu
+05-Press Enter On "Install macOS Big Sur" Option On The Open Core Menu
 
 06-Perform The Installation, And If It Restarts, Press The Option To Continue The Installation On The Open Core Menu
 
