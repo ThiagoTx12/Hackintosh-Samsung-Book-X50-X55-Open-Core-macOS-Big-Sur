@@ -19,7 +19,7 @@ Github Does Not Support Files Larger Than 25 MB :(
 |Audio Codec|Realtek ALC256|
 |Storage|1 TB HDD (5400RPM)/ 128 GB NVMe SSD|
 |Network|Intel(R) Wireless-AC 9462 / Bluetooth v5.2 / Gigabit Ethernet|
-|macOS Version: |macOS Big Sur 11.x|
+|macOS Version: |macOS Big Sur|
 
 ### What's Work?
 
