@@ -68,3 +68,6 @@ Let's Start The Guide :)
 Remember to Generate Your Own SMBIOS !!!
 
 https://github.com/corpnewt/GenSMBIOS
+
+
+Working On macOS Monterey For This Laptop (Not Ready)
