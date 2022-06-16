@@ -43,7 +43,7 @@ Let's Start The Guide :)
 
 ## Instalation Guide
 
-01-Make Your macOS Ventura Bootable Flash Drive With Balena Etcher
+01-Make Your macOS Big Sur Bootable Flash Drive With Balena Etcher
 
 02-Mount EFI From Your Flash Drive And Paste My EFI
 
